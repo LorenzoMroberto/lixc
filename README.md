@@ -7,6 +7,8 @@ Manipulação da lixeira do windows por cli
 É isso mesmo, o script é apenas isto, manipular a lixeira por cli
 
 
+## Como usar o script
+
 | Argumento | Tipo | Descrição |
 | ----------- | ----------- | ----------- |
 | l     | comando | Lista todos os itens da lixeira |
@@ -15,10 +17,15 @@ Manipulação da lixeira do windows por cli
 | <arquivo/pasta> | Comando | Move o item para a lixeira |
 
 
-
 📌 Resumo: Por que este script é adequado para você?
 - ✅ Usa APIs oficiais do Windows ( Ou seja, é totalmente seguro )
 - ✅ Sem diálogos indesejados ( afinal, é por interface de linha de comando 'cli' )
 - ✅ Código enxuto, robusto e funcional
 - ✅ Trata erros com mensagens claras
 - ✅ Funciona em Windows 10 e 11
+
+##Módulos usados no script
+
+| Módulo |
+| -- |
+| os |
