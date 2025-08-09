@@ -40,4 +40,4 @@ Manipulação da lixeira do windows por cli
 | pythoncom |
 | ctypes |
 
-Testado e funcional em ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=yellow)
+Testado e funcional em python 3.11.7 e Windows 11
