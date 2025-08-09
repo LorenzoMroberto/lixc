@@ -34,10 +34,10 @@ Manipulação da lixeira do windows por cli
 
 | Módulo | Detalhes |
 | -- | -- |
-| pywin32 | ⚠️ Requer instalação |
-| pythoncom | ⚠️ Requer instalação |
-| os | Incluso no python 3.5+ |
-| sys | Incluso no python 3.5+ |
-| ctypes | Incluso no python 3.5+ |
+| `pywin32` | ⚠️ Requer instalação |
+| `pythoncom` | ⚠️ Requer instalação |
+| `os` | Incluso no python |
+| `sys` | Incluso no python |
+| `ctypes` | Incluso no python |
 
 **Testado e funcional em python 3.11.7 e Windows 11**
