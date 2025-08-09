@@ -9,8 +9,10 @@ Manipulação da lixeira do windows por cli
 
 | Argumento | Tipo | Descrição |
 | ----------- | ----------- | ----------- |
-| l     | Dado 2      | Dado 3      |
-| e      | Dado 5      | Dado 6      |
+| l     | comando | Lista todos os itens da lixeira |
+| e      | Comando | Esvazia completamente a lixeira |
+| e <numero: 3> | Comando | Exclui permanentemente o item com o número especificado |
+| <arquivo/pasta> | Comando | Move o item para a lixeira |
 
 
 
