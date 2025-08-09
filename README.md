@@ -5,6 +5,7 @@ Manipulação da lixeira do windows por cli
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Versão](https://img.shields.io/badge/Versão-1.0-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-2-brightgreen)
+![Py+Win](https://img.shields.io/badge/Python%203.11.7%20%7C%20Windows%2011-✔-brightgreen?logo=python&logoColor=white)
 
 <img width="878" height="875" alt="Captura de tela 2025-08-08 120852" src="https://github.com/user-attachments/assets/0fc9ce5d-f02a-4f43-b6df-ff368899930e" />
 
