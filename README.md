@@ -28,6 +28,7 @@ Manipulação da lixeira do windows por cli
 
 | Módulo |
 | -- |
+| pywin32 |
 | os |
 | sys |
 | pythoncom |
