@@ -40,4 +40,4 @@ Manipulação da lixeira do windows por cli
 | sys | Interno para python 3.5+ |
 | ctypes | Interno para python 3.5+ |
 
-Testado e funcional em python 3.11.7 e Windows 11
+**Testado e funcional em python 3.11.7 e Windows 11**
