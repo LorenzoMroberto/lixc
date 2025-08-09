@@ -1,8 +1,10 @@
 # lixc
 Manipulação da lixeira do windows por cli
 
+![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Versão](https://img.shields.io/badge/Versão-1.0-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-2-brightgreen)
 
 <img width="878" height="875" alt="Captura de tela 2025-08-08 120852" src="https://github.com/user-attachments/assets/0fc9ce5d-f02a-4f43-b6df-ff368899930e" />
 
@@ -36,3 +38,5 @@ Manipulação da lixeira do windows por cli
 | sys |
 | pythoncom |
 | ctypes |
+
+Testado e funcional em ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=yellow)
