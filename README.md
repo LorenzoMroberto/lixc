@@ -32,12 +32,12 @@ Manipulação da lixeira do windows por cli
 
 ## Módulos usados no script
 
-| Módulo |
-| -- |
-| pywin32 |
-| os |
-| sys |
-| pythoncom |
-| ctypes |
+| Módulo | Detalhes |
+| -- | -- |
+| pywin32 | Terá que baixar |
+| os | Interno para python 3x ou 1.4+ |
+| sys | Interno para python 3x ou 1.0+ |
+| pythoncom | Terá que baixar |
+| ctypes | Interno para python 3x ou 2.5+ |
 
 Testado e funcional em python 3.11.7 e Windows 11
