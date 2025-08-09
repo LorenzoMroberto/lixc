@@ -17,8 +17,8 @@ Manipulação da lixeira do windows por cli
 
 
 📌 Resumo: Por que este script é adequado para você?
-✅ Usa APIs oficiais do Windows ( Ou seja, é totalmente seguro )
-✅ Sem diálogos indesejados ( afinal, é por interface de linha de comando 'cli' )
-✅ Código enxuto, robusto e funcional
-✅ Trata erros com mensagens claras
-✅ Funciona em Windows 10 e 11
+✅ Usa APIs oficiais do Windows ( Ou seja, é totalmente seguro ) \n
+✅ Sem diálogos indesejados ( afinal, é por interface de linha de comando 'cli' ) \n
+✅ Código enxuto, robusto e funcional \n
+✅ Trata erros com mensagens claras \n
+✅ Funciona em Windows 10 e 11 \n
