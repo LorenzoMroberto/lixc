@@ -24,7 +24,7 @@ Manipulação da lixeira do windows por cli
 - ✅ Trata erros com mensagens claras
 - ✅ Funciona em Windows 10 e 11
 
-##Módulos usados no script
+## Módulos usados no script
 
 | Módulo |
 | -- |
